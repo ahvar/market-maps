@@ -1,0 +1,16 @@
+{
+  "name": "graphene",
+  "description": "A exploratory tool used to analyze and present data",
+  "author": "Arthur Vargas",
+  "files": [],
+  "keywords": [],
+  "dependencies": {},
+  "browserify": {
+    "transform": [
+      "brfs",
+      "bulkify",
+      "folderify"
+    ]
+  },
+  "browser": {}
+}
